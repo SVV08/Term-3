@@ -9,7 +9,7 @@
 <center> COMING SOON! </center>
 </body> </font></b>
 <p>
-<font size='6' color='pink'><a href="C:/Users/97156/Documents/Wsatimes.html">Go back to home page </a></font>
+<font size='6' color='pink'><a href="https://svv08.github.io/WSATimes/">Go back to home page </a></font>
 </p>
 </html>
 
