@@ -7,11 +7,11 @@
 </head>
 <body bgcolor="lightblue" ><font size='8'><b>
 <center> COMING SOON! </center>
-</body> </font></b>
+</b>
 <p>
 <font size='6' color='pink'><a href="https://svv08.github.io/WSATimes/">Go back to home page </a></font>
 </p>
-</html>
+
 
 
 
