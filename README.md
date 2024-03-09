@@ -3,9 +3,7 @@
 <font size='6' face='brush script MT' color='black'>
 <h1> <center> Term 3 </center> </h1>
 </font>
-<title>
-WSA Times
-</title>
+
 </head>
 <body bgcolor="lightblue" ><font size='8'><b>
 <center> COMING SOON! </center>
